@@ -12,7 +12,7 @@
 <body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" ><img style="width: 110px;" src="{{ asset('img/zeee.png') }}"></a>
+            <a class="navbar-brand"><img style="width: 110px;" src="{{ asset('img/zeee.png') }}"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -35,35 +35,35 @@
         </nav>
     </header>
     <main>
-        <section>
+        <section style="margin-bottom: 100px;">
             <h2 style="text-align: center;">Portofolio</h2>
             <div class="row">
                 <div class="col-sm-4">
                     <div class="card">
-                        <img class="card-img-top" src="https://via.placeholder.com/300x200" alt="Card image cap">
+                        <img class="card-img-top" src="https://via.placeholder.com/200x100" alt="Card image cap">
                         <div class="card-body">
                             <h5 style="margin-top: 20px;text-align: center;" class="card-title">Proyek 1</h5>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, libero ut faucibus eleifend, magna dui finibus nulla, vitae faucibus magna ex ac turpis. Vestibulum sed velit vel velit pellentesque eleifend. Integer viverra enim a ex euismod, ut pharetra eros rhoncus. In finibus libero eu ligula molestie efficitur. Ut quis commodo massa, id pretium risus. Duis suscipit metus quis diam blandit aliquam. Aenean sit amet ante metus. Nunc commodo tristique metus sed pulvinar. Quisque consectetur enim vel commodo viverra. Sed condimentum nibh vel enim commodo suscipit.</p>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, libero ut faucised velia ex euismod, ut pharetra eros rhoncus. In finibus libero eu ligula molestie efficitur. Ut quis commodo massa, id pretium risus. Duis suscipit metus quis diam blandit aliquam. Aenean sit amet ante metus. Nunc commodo tristique metus sed pulvinar. Quisque consectetur enim vel commodo viverra. Sed condimentum nibh vel enim commodo suscipit.</p>
                             <a href="#" class="btn btn-primary">Lihat Proyek</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="card">
-                        <img class="card-img-top" src="https://via.placeholder.com/300x200" alt="Card image cap">
+                        <img class="card-img-top" src="https://via.placeholder.com/200x100" alt="Card image cap">
                         <div class="card-body">
                             <h5 style="margin-top: 20px;text-align: center;" class="card-title">Proyek 2</h5>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, libero ut faucibus eleifend, magna dui finibus nulla, vitae faucibus magna ex ac turpis. Vestibulum sed velit vel velit pellentesque eleifend. Integer viverra enim a ex euismod, ut pharetra eros rhoncus. In finibus libero eu ligula molestie efficitur. Ut quis commodo massa, id pretium risus. Duis suscipit metus quis diam blandit aliquam. Aenean sit amet ante metus. Nunc commodo tristique metus sed pulvinar. Quisque consectetur enim vel commodo viverra. Sed condimentum nibh vel enim commodo suscipit.</p>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, libero ut faucised velia ex euismod, ut pharetra eros rhoncus. In finibus libero eu ligula molestie efficitur. Ut quis commodo massa, id pretium risus. Duis suscipit metus quis diam blandit aliquam. Aenean sit amet ante metus. Nunc commodo tristique metus sed pulvinar. Quisque consectetur enim vel commodo viverra. Sed condimentum nibh vel enim commodo suscipit.</p>
                             <a href="#" class="btn btn-primary">Lihat Proyek</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="card">
-                        <img class="card-img-top" src="https://via.placeholder.com/300x200" alt="Card image cap">
+                        <img class="card-img-top" src="https://via.placeholder.com/200x100" alt="Card image cap">
                         <div class="card-body">
                             <h5 style="margin-top: 20px;text-align: center;" class="card-title">Proyek 3</h5>
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, libero ut faucibus eleifend, magna dui finibus nulla, vitae faucibus magna ex ac turpis. Vestibulum sed velit vel velit pellentesque eleifend. Integer viverra enim a ex euismod, ut pharetra eros rhoncus. In finibus libero eu ligula molestie efficitur. Ut quis commodo massa, id pretium risus. Duis suscipit metus quis diam blandit aliquam. Aenean sit amet ante metus. Nunc commodo tristique metus sed pulvinar. Quisque consectetur enim vel commodo viverra. Sed condimentum nibh vel enim commodo suscipit.</p>
+                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, libero ut faucised velia ex euismod, ut pharetra eros rhoncus. In finibus libero eu ligula molestie efficitur. Ut quis commodo massa, id pretium risus. Duis suscipit metus quis diam blandit aliquam. Aenean sit amet ante metus. Nunc commodo tristique metus sed pulvinar. Quisque consectetur enim vel commodo viverra. Sed condimentum nibh vel enim commodo suscipit.</p>
                             <a href="#" class="btn btn-primary">Lihat Proyek</a>
                         </div>
                     </div>
