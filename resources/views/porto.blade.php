@@ -44,7 +44,7 @@
                         <div class="card-body">
                             <h5 style="margin-top: 20px;text-align: center;" class="card-title">Proyek 1</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, libero ut faucised velia ex euismod, ut pharetra eros rhoncus. In finibus libero eu ligula molestie efficitur. Ut quis commodo massa, id pretium risus. Duis suscipit metus quis diam blandit aliquam. Aenean sit amet ante metus. Nunc commodo tristique metus sed pulvinar. Quisque consectetur enim vel commodo viverra. Sed condimentum nibh vel enim commodo suscipit.</p>
-                            <a href="#" class="btn btn-primary">Lihat Proyek</a>
+                            <a href="#" class="btn btn-primary btn-lg">Lihat Proyek</a>
                         </div>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                         <div class="card-body">
                             <h5 style="margin-top: 20px;text-align: center;" class="card-title">Proyek 2</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, libero ut faucised velia ex euismod, ut pharetra eros rhoncus. In finibus libero eu ligula molestie efficitur. Ut quis commodo massa, id pretium risus. Duis suscipit metus quis diam blandit aliquam. Aenean sit amet ante metus. Nunc commodo tristique metus sed pulvinar. Quisque consectetur enim vel commodo viverra. Sed condimentum nibh vel enim commodo suscipit.</p>
-                            <a href="#" class="btn btn-primary">Lihat Proyek</a>
+                            <a href="#" class="btn btn-primary btn-lg">Lihat Proyek</a>
                         </div>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                         <div class="card-body">
                             <h5 style="margin-top: 20px;text-align: center;" class="card-title">Proyek 3</h5>
                             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, libero ut faucised velia ex euismod, ut pharetra eros rhoncus. In finibus libero eu ligula molestie efficitur. Ut quis commodo massa, id pretium risus. Duis suscipit metus quis diam blandit aliquam. Aenean sit amet ante metus. Nunc commodo tristique metus sed pulvinar. Quisque consectetur enim vel commodo viverra. Sed condimentum nibh vel enim commodo suscipit.</p>
-                            <a href="#" class="btn btn-primary">Lihat Proyek</a>
+                            <a href="#" class="btn btn-primary btn-lg">Lihat Proyek</a>
                         </div>
                     </div>
                 </div>

@@ -16,14 +16,14 @@
         input {
             display: block;
             margin: auto;
-            text-align: center;
+            text-align: left;
         }
 
         input[type="text"],
         input[type="email"],
         textarea {
             display: block;
-            width: 90%;
+            width: 50%;
             margin: auto;
             padding: 10px;
             margin-bottom: 20px;
@@ -88,17 +88,17 @@
     </header>
     <form method="post" action="{{ route('send.email') }}">
         @csrf
-        <label for="name">Name:</label>
-        <input type="text" name="name" id="name" required>
+        <label for="name"></label>
+        <input type="text" name="name" id="name" required placeholder="Masukkan Nama Lengkap Anda">
 
-        <label for="email">Email:</label>
-        <input type="email" name="email" id="email" required>
+        <label for="email"></label>
+        <input type="email" name="email" id="email" required placeholder="Masukkan Email Anda">
 
-        <label for="subject">Subject:</label>
-        <input type="text" name="subject" id="subject" required>
+        <label for="subject"></label>
+        <input type="text" name="subject" id="subject" required placeholder="Masukkan Subject Anda">
 
-        <label for="message">Message:</label>
-        <textarea name="message" id="message" required></textarea>
+        <label for="message"></label>
+        <textarea name="message" id="message" required placeholder="Masukkan Pesan Anda"></textarea>
 
         <input type="submit" value="Send">
     </form>

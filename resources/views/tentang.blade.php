@@ -37,8 +37,44 @@
     <main>
         <section>
             <h2 style="text-align: center;">Tentang Saya</h2>
-            <p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec eleifend pulvinar aliquam. Morbi varius felis vitae dui malesuada, a aliquam nisl pretium. Nam ut massa eget nisl fermentum bibendum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed feugiat augue sit amet massa feugiat aliquam. Phasellus ut dictum tortor. Sed euismod leo in blandit lobortis. Integer lobortis nisi quis tempor efficitur.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet, libero ut faucibus eleifend, magna dui finibus nulla, vitae faucibus magna ex ac turpis. Vestibulum sed velit vel velit pellentesque eleifend. Integer viverra enim a ex euismod, ut pharetra eros rhoncus. In finibus libero eu ligula molestie efficitur. Ut quis commodo massa, id pretium risus. Duis suscipit metus quis diam blandit aliquam. Aenean sit amet ante metus. Nunc commodo tristique metus sed pulvinar. Quisque consectetur enim vel commodo viverra. Sed condimentum nibh vel enim commodo suscipit.</p>
+            <p style="text-align: center;">Saya adalah seorang yang berumur 20 tahun dan berasal dari kota Tarakan, Provinsi Kalimantan Utara. Saat ini, saya sedang menempuh pendidikan di Universitas Teknologi Yogyakarta dan tinggal di daerah Sleman. Saya memiliki minat yang besar dalam bidang teknologi dan senang mengikuti perkembangan terbaru di dunia teknologi.</p>
+            <a href="https://goo.gl/maps/h8nAdY5UZxrmcuua9" class="btn btn-primary btn-lg">Lihat Lokasi</a>
+        </section>
+        <section style="margin-bottom: 100px;">
+            <h2 style="text-align: center;">Portofolio</h2>
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="card" style="border:none;">
+                        <img class="card-img-top" src="{{ asset('img/code.png') }}" alt="Card image cap">
+                        <div class=" card-body">
+                            <h5 style="margin-top: 20px;text-align: center;" class="card-title">Programming</h5>
+                            <p class="card-text">Saya sangat tertarik dengan programming dan coding, serta sedang belajar bahasa pemrograman Kotlin, PHP, dan Python. Impian saya adalah menjadi seorang web developer dan android developer yang handal dan terampil. Saya yakin bahwa dengan konsistensi dalam belajar dan berlatih, serta mengikuti perkembangan teknologi terbaru, saya akan mampu mencapai tujuan saya tersebut. Saya sangat antusias dan bersemangat dalam mengejar mimpi saya menjadi seorang developer yang sukses.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card" style="border:none;">
+                        <img class="card-img-top" src="{{ asset('img/game.png') }}" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 style="margin-top: 20px;text-align: center;" class="card-title">Gaming</h5>
+                            <p class="card-text">Saya sangat suka bermain game sebagai hiburan bersama teman-teman. Jika Anda juga tertarik, kita bisa bermain bersama dan saling menantang di waktu luang kita. Bagi saya, bermain game bukan hanya menghilangkan stres dan lelah dari rutinitas sehari-hari, tapi juga meningkatkan kerja tim dan komunikasi dalam sebuah tim. Saya akan senang jika bisa bermain game bersama dengan Anda suatu hari nanti.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card" style="border:none;">
+                        <img class="card-img-top" src="{{ asset('img/mediaplayer.png') }}" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 style="margin-top: 20px;text-align: center;" class="card-title">Movie And Music</h5>
+                            <p class="card-text">Saya sangat menyukai menonton film dan mendengarkan musik. Kegiatan ini membuat saya merasa tenang dan santai. Saat sedang fokus belajar dan coding, saya sering mendengarkan musik sebagai pengiring. Jika kamu memiliki kesukaan yang sama, ayo kita bisa berbagi rekomendasi film dan lagu yang bagus untuk ditonton dan didengarkan bersama!
+
+
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
     </main>
     <footer style="text-align: center;margin-top: 20px;">
